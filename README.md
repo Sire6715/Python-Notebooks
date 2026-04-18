@@ -2,13 +2,13 @@
 
 A comprehensive, week-by-week Python learning program covering fundamental to advanced concepts in programming, data science, and software best practices.
 
-## 📋 Overview
+##  Overview
 
 This curriculum is structured into 7 weeks of progressive learning, with each week containing lessons, exercises, and code challenges. All materials are provided as Jupyter notebooks and Python scripts for interactive learning and practice.
 
 ---
 
-## 📚 Curriculum Structure
+##  Curriculum Structure
 
 ### **Week 1: Python Fundamentals**
 
